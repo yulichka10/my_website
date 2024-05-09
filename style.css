@@ -1,0 +1,18 @@
+main {
+    padding: 10px;
+    background-color: silver;
+}
+
+.post {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.post img {
+    margin: 30px;
+}
+
+

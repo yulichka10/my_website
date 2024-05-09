@@ -1,0 +1,21 @@
+.coment{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.author{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.date{
+    color: silver;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#sub-coment{
+    margin-left:40px;
+}
